@@ -1,0 +1,9 @@
+﻿  HW04imp.c
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(42,11): warning C4098: 'AddItem': 'void' function returning a value
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(52,12): warning C4098: 'AddItem': 'void' function returning a value
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(83,12): warning C4098: 'OrderItem': 'void' function returning a value
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(96,11): warning C4098: 'RemoveItem': 'void' function returning a value
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(99,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(115,11): warning C4098: 'RemoveTable': 'void' function returning a value
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\HW04imp.c(121,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HW04.vcxproj -> C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 4\HW04\Debug\HW04.exe

@@ -1,0 +1,6 @@
+﻿  HW01 ex03.c
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 1\HW01\HW01 ex03.c(19,35): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[26]'
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 1\HW01\HW01 ex03.c(19,30): warning C4024: 'letter_appear': different types for formal and actual parameter 3
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 1\HW01\HW01 ex03.c(21,21): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[26]'
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 1\HW01\HW01 ex03.c(21,16): warning C4024: 'printing': different types for formal and actual parameter 2
+  HW01.vcxproj -> C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 1\HW01\Debug\HW01.exe

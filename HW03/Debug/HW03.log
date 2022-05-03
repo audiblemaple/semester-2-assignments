@@ -1,0 +1,7 @@
+﻿  HW01 ex 1.c
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 3\HW03\HW01 ex 1.c(52,36): warning C4133: '=': incompatible types - from 'student *' to 'student *'
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 3\HW03\HW01 ex 1.c(70,37): warning C4020: 'final_calc': too many actual parameters
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 3\HW03\HW01 ex 1.c(153,13): warning C4133: 'return': incompatible types - from 'student *' to 'student *'
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 3\HW03\HW01 ex 1.c(174,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 3\HW03\HW01 ex 1.c(179,7): warning C4101: 'temp': unreferenced local variable
+  HW03.vcxproj -> C:\Users\Lior\OneDrive - ort braude college of engineering\שנה א סמסטר 2\מבוא לתכנות מערכות\עבודות בית\עבודת בית 3\HW03\Debug\HW03.exe
